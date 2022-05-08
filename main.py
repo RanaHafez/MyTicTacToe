@@ -1,6 +1,7 @@
 import random
 import numpy as np
 
+# Rana Hafez (2022)
 # Choosing First Player
 players = ["O", "X"]
 random.shuffle(players)
